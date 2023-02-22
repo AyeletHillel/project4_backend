@@ -20,6 +20,11 @@ Through this platform, users can access carefully curated content such as articl
 | Update| /bookmark/:id | PUT | Updates one bookmark
 | Delete| /bookmark/:id | DELETE | Deletes one bookmark
 
+## Models
+
+<img width="452" alt="Screen Shot 2023-02-21 at 10 00 18 PM" src="https://user-images.githubusercontent.com/91492759/220510258-1ec743e9-abe1-402d-aa01-25b5388dc074.png">
+
+
 ## Links to project
 
 * [Deployed Backend](https://project4-backend.onrender.com)
