@@ -31,8 +31,10 @@ Through this platform, users can access carefully curated content such as articl
 
 
 ## Wireframes
+<img width="1427" alt="Screen Shot 2023-02-21 at 8 52 02 PM" src="https://user-images.githubusercontent.com/91492759/220500511-a13e3c22-f095-497d-b367-27d855f45548.png">
+
 
 ## Links to project
 
-[Deployed Backend](https://project4-backend.onrender.com)
-[Deployed Frontend](https://project4-frontend.onrender.com)
+* [Deployed Backend](https://project4-backend.onrender.com)
+* [Deployed Frontend](https://project4-frontend.onrender.com)
