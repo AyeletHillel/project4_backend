@@ -35,4 +35,4 @@ Through this platform, users can access carefully curated content such as articl
 ## Links to project
 
 [Deployed Backend](https://project4-backend.onrender.com)
-[Deployed Frontend](
+[Deployed Frontend](https://project4-frontend.onrender.com)
