@@ -21,7 +21,9 @@ render.com
 
 Routes & Components
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Route	| Element |	Loader | Action	| Summary
+| --- | --- | --- | --- | --- |
+| / | Index | indexLoader | Loads a list of all bookmarks | 
+
+
+
