@@ -23,7 +23,10 @@ Routes & Components
 
 | Route	| Element |	Loader | Action	| Summary
 | --- | --- | --- | --- | --- |
-| / | Index | indexLoader | Loads a list of all bookmarks | 
+| / | Index | indexLoader |  | Loads a list of all bookmarks
+
+
+
 
 
 
