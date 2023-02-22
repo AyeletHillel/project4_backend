@@ -14,11 +14,11 @@ Through this platform, users can access carefully curated content such as articl
 
 | Route Name | URL |	HTTP Verb | Description	
 | --- | --- | --- | --- | 
-| Index | /bookmark/ | GET |  | Loads a list of all bookmarks
-| Show | /bookmark/:id | GET |  | Loads one bookmark
-| Create | /bookmark/ | | POST | Updates one bookmark
-| Update| /bookmark/:id | | PUT | Deletes one bookmark
-| Delete| /bookmark/:id | | DELETE | Deletes one bookmark
+| Index | /bookmark/ | GET | Loads a list of all bookmarks 
+| Show | /bookmark/:id | GET | Loads one bookmark 
+| Create | /bookmark/ | POST | Updates one bookmark 
+| Update| /bookmark/:id | PUT | Deletes one bookmark
+| Delete| /bookmark/:id | DELETE | Deletes one bookmark
 
 ## Links to project
 
