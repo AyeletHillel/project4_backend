@@ -5,34 +5,20 @@ Through this platform, users can access carefully curated content such as articl
 
 # Technologies Used
 
-### Backend
-
 * Python
 * Django
 * Postgres
 * render.com
 
-### Frontend
+## Backend Route Table
 
-* React.js
-* HTML
-* CSS
-* Tailwind UI
-* render.com
-
-## Routes & Components
-
-| Route	| Element |	Loader | Action	| Summary
-| --- | --- | --- | --- | --- |
-| / | Index | indexLoader |  | Loads a list of all bookmarks
-| /:id | Show | showLoader |  | Loads one bookmark
-| /update/:id | Update | | updateAction | Updates one bookmark
-| /delete/:id | Delete | | deleteeAction | Deletes one bookmark
-
-
-## Wireframes
-<img width="1427" alt="Screen Shot 2023-02-21 at 8 52 02 PM" src="https://user-images.githubusercontent.com/91492759/220500511-a13e3c22-f095-497d-b367-27d855f45548.png">
-
+| Route Name | URL |	HTTP Verb | Description	
+| --- | --- | --- | --- | 
+| Index | /bookmark/ | GET |  | Loads a list of all bookmarks
+| Show | /bookmark/:id | GET |  | Loads one bookmark
+| Create | /bookmark/ | | POST | Updates one bookmark
+| Update| /bookmark/:id | | PUT | Deletes one bookmark
+| Delete| /bookmark/:id | | DELETE | Deletes one bookmark
 
 ## Links to project
 
