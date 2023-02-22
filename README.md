@@ -16,8 +16,8 @@ Through this platform, users can access carefully curated content such as articl
 | --- | --- | --- | --- | 
 | Index | /bookmark/ | GET | Loads a list of all bookmarks 
 | Show | /bookmark/:id | GET | Loads one bookmark 
-| Create | /bookmark/ | POST | Updates one bookmark 
-| Update| /bookmark/:id | PUT | Deletes one bookmark
+| Create | /bookmark/ | POST | Creates one bookmark 
+| Update| /bookmark/:id | PUT | Updates one bookmark
 | Delete| /bookmark/:id | DELETE | Deletes one bookmark
 
 ## Links to project
